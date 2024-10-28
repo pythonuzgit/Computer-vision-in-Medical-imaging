@@ -1,4 +1,4 @@
-# Computer-vision-in-Medical-imaging
+# Computer vision in Medical imaging
 
 1. **Computer_Vision_Chest_X_Ray_Dataset_categories** [Example](https://github.com/pythonuzgit/Computer-vision-in-Medical-imaging/blob/main/Computer-vision-in-Medical-imaging%20/Computer_Vision_Chest_X_Ray_Dataset_categories.ipynb)
 1. **Brain MRI Scan images using PyTorch** [Example](https://github.com/pythonuzgit/Computer-vision-in-Medical-imaging/blob/main/Computer-vision-in-Medical-imaging%20/Brain_MRI_Scan_images_using_PyTorch.ipynb)
